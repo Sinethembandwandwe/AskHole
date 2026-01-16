@@ -28,15 +28,14 @@ Try it yourself here: http://askhole.byethost11.com
 
 To run AskHole locally or on your own server, you need to set up the MySQL database.
 
-### 1. Create a new MySQL database
+ 1. Create a new MySQL database
 You can create a database called `askhole_db` (or any name you prefer) using your database management tool, e.g., phpMyAdmin or command line.
-
-### 2. Import the database schema
+ 2. Import the database schema
 We include the database schema file at `database/askhole.sql` which contains all the table structures.
 To import it, run this command in your terminal or command prompt:
-
 ```bash
 mysql -u your_username -p askhole_db < database/askhole_datbs.sql
+
 
 
 ## License
