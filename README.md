@@ -6,11 +6,7 @@ The name **AskHole** comes from the idea of a dark, mysterious hole, like the pl
 It’s a little bit cheeky, a little bit hopeful: you toss your questions into the void, knowing you might or might not get an angel popping out to be your perfect match. It is a little dark with a sprinkle of **hope**, because love is often a bit messy, mysterious, and magical all at once.
 
 ## Live Demo
-Try it yourself here: http://askhole.byethost11.com
- 
-  **Security Notice:**  
-    > This site is hosted on a free hosting plan, so your browser may show a security warning due to lack of HTTPS/SSL certificate.  
-    > The site is safe to use, but please proceed with caution if you see any warnings.
+- The images are provided to showcase how the website looks like. You can refer to the code learn how security and privacy were implemented. 
 
 ## Features
 - Send and answer curated question sets.  
